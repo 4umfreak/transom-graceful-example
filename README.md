@@ -1,2 +1,2 @@
-# transom-scaffold-example
-Simple example that shows how to serve static content from a TransomJS server
+# transom-graceful-example
+Simple example that shows how to scale up and down a TransomJS server

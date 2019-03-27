@@ -15,10 +15,10 @@
   "dependencies": {
     "@transomjs/transom-core": "^1.2.0",
     "@transomjs/transom-graceful": "^1.0.2",
-    "@transomjs/transom-scaffold": "^1.2.3"
+    "@transomjs/transom-scaffold": "^1.2.3",
+    "open": "^6.0.0"
   },
   "devDependencies": {
-    "cross-env": "^5.2.0",
-    "opn": "^5.4.0"
+    "cross-env": "^5.2.0"
   }
 }
